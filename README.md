@@ -17,7 +17,8 @@
 
 ### week 2
 [PPT](https://docs.google.com/presentation/d/1rG__GC-ijlRy3SZsAnhu9n4TsS3FR3fYZG8WE1rGyxo/edit#slide=id.g208c735537b_0_0)
-
+[影片1](https://www.youtube.com/watch?v=rNObnMBiwbQ)
+[影片2](https://www.youtube.com/watch?v=1MHUQmNnDQk)
 ### week 3
 [PPT](https://docs.google.com/presentation/d/1Zs6ve5OW18cbK29H4gYCFfnF6LtshhyNDUW0xsmS-Vw/edit#slide=id.p)
 
