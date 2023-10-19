@@ -25,8 +25,12 @@
 ### week4
 [PPT](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=681155)
 [影片](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=685289)
-### week5
+### week6
 [PPT](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=685001)
+[影片](https://www.youtube.com/watch?v=ldPWXlYsUBI&feature=youtu.be)
+### week7
+[PPT](https://docs.google.com/presentation/d/1g6EEYvMuSdYtbv7zlO_emv8MYrDh2Z-loAXLoZAPWIU/edit#slide=id.g208c735537b_0_0)
+[影片](https://www.youtube.com/watch?v=ldPWXlYsUBI&feature=youtu.be)
 
 作業區
 -------------
