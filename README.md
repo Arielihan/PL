@@ -46,6 +46,7 @@
 [HW2](https://colab.research.google.com/drive/1cM59BqPywwuOI3h2zGl73WcBlSrxXUfN?authuser=2#scrollTo=sjgswlK6pPok)
 [HW3](http://localhost:8888/notebooks/Documents/GitHub/PL/PTT-Copy1.ipynb)
 [HW4](https://colab.research.google.com/drive/1deA7RfRrzTqwEg6CQ_Knfyu5zU41kClI?authuser=2#scrollTo=2eKb0Op-6gqV)
+[HW4midium](https://medium.com/@Lilybaby/疫情後出國旅遊潮-沖繩都在玩什麼-1c92fd8059dd)
 
 專題區
 -------------
