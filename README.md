@@ -47,7 +47,7 @@
 + [HW3](https://github.com/Arielihan/PL/blob/main/PTT.ipynb)
 + [HW4](https://colab.research.google.com/drive/1deA7RfRrzTqwEg6CQ_Knfyu5zU41kClI?authuser=2#scrollTo=2eKb0Op-6gqV)
 [HW4midium](https://medium.com/@Lilybaby/疫情後出國旅遊潮-沖繩都在玩什麼-1c92fd8059dd)
-+ [HW5](http://localhost:8888/notebooks/Documents/GitHub/PL/HW5.ipynb)
++ [HW5](https://github.com/Arielihan/PL/blob/main/HW5.ipynb)
 [HW5midium](https://medium.com/@Lilybaby/ptt%E7%88%AC%E8%9F%B2%E5%88%B0%E7%86%B1%E9%BB%9E%E5%9C%96-%E6%B2%96%E7%B9%A9%E6%97%85%E9%81%8A%E9%83%BD%E5%9C%A8%E9%97%9C%E6%B3%A8%E4%BB%80%E9%BA%BC-3a99ccc25112)
 
 專題區
